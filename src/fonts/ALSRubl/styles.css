@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'ALSRubl';
+  src: url('ALSRubl.eot?#iefix') format('embedded-opentype'),  url('ALSRubl.otf')  format('opentype'),
+	     url('ALSRubl.woff') format('woff'), url('ALSRubl.ttf')  format('truetype'), url('ALSRubl.svg#ALSRubl') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
